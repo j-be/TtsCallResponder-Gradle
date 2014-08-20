@@ -1,0 +1,9 @@
+[submodule "AndroidSliderPreference"]
+	path = AndroidSliderPreference
+	url = git@github.com:j-be/AndroidSliderPreference.git
+[submodule "ormdroid"]
+	path = ormdroid
+	url = git@github.com:j-be/ormdroid.git
+[submodule "TtsCallResponder"]
+	path = TtsCallResponder
+	url = gitolite@raven.duckdns.org:TtsCallResponder
