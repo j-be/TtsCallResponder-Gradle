@@ -6,4 +6,4 @@
 	url = git@github.com:j-be/ormdroid.git
 [submodule "TtsCallResponder"]
 	path = TtsCallResponder
-	url = gitolite@raven.duckdns.org:TtsCallResponder
+	url = git@github.con:j-be/TtsCallResponder.git
